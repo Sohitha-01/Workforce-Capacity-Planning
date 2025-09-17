@@ -1,0 +1,131 @@
+location,week,appointments
+Dublin,2025-02-03,369.0
+Dublin,2025-02-10,417.0
+Dublin,2025-02-17,375.0
+Dublin,2025-02-24,378.0
+Dublin,2025-03-03,385.0
+Dublin,2025-03-10,425.0
+Dublin,2025-03-17,412.0
+Dublin,2025-03-24,395.0
+Dublin,2025-03-31,421.0
+Dublin,2025-04-07,419.0
+Dublin,2025-04-14,379.0
+Dublin,2025-04-21,382.0
+Dublin,2025-04-28,425.0
+Dublin,2025-05-05,426.0
+Dublin,2025-05-12,444.0
+Dublin,2025-05-19,433.0
+Dublin,2025-05-26,426.0
+Dublin,2025-06-02,415.0
+Dublin,2025-06-09,410.0
+Dublin,2025-06-16,389.0
+Dublin,2025-06-23,413.0
+Dublin,2025-06-30,408.0
+Dublin,2025-07-07,430.0
+Dublin,2025-07-14,421.0
+Dublin,2025-07-21,411.0
+Dublin,2025-07-28,427.0
+Fremont,2025-02-03,470.0
+Fremont,2025-02-10,465.0
+Fremont,2025-02-17,453.0
+Fremont,2025-02-24,438.0
+Fremont,2025-03-03,455.0
+Fremont,2025-03-10,478.0
+Fremont,2025-03-17,449.0
+Fremont,2025-03-24,482.0
+Fremont,2025-03-31,461.0
+Fremont,2025-04-07,518.0
+Fremont,2025-04-14,458.0
+Fremont,2025-04-21,459.0
+Fremont,2025-04-28,464.0
+Fremont,2025-05-05,466.0
+Fremont,2025-05-12,457.0
+Fremont,2025-05-19,475.0
+Fremont,2025-05-26,485.0
+Fremont,2025-06-02,476.0
+Fremont,2025-06-09,462.0
+Fremont,2025-06-16,501.0
+Fremont,2025-06-23,487.0
+Fremont,2025-06-30,481.0
+Fremont,2025-07-07,494.0
+Fremont,2025-07-14,480.0
+Fremont,2025-07-21,506.0
+Fremont,2025-07-28,497.0
+Mountain View,2025-02-03,421.0
+Mountain View,2025-02-10,422.0
+Mountain View,2025-02-17,419.0
+Mountain View,2025-02-24,415.0
+Mountain View,2025-03-03,411.0
+Mountain View,2025-03-10,429.0
+Mountain View,2025-03-17,419.0
+Mountain View,2025-03-24,423.0
+Mountain View,2025-03-31,412.0
+Mountain View,2025-04-07,455.0
+Mountain View,2025-04-14,434.0
+Mountain View,2025-04-21,453.0
+Mountain View,2025-04-28,439.0
+Mountain View,2025-05-05,427.0
+Mountain View,2025-05-12,448.0
+Mountain View,2025-05-19,459.0
+Mountain View,2025-05-26,450.0
+Mountain View,2025-06-02,432.0
+Mountain View,2025-06-09,486.0
+Mountain View,2025-06-16,450.0
+Mountain View,2025-06-23,459.0
+Mountain View,2025-06-30,440.0
+Mountain View,2025-07-07,476.0
+Mountain View,2025-07-14,454.0
+Mountain View,2025-07-21,449.0
+Mountain View,2025-07-28,443.0
+Palo Alto,2025-02-03,556.0
+Palo Alto,2025-02-10,546.0
+Palo Alto,2025-02-17,542.0
+Palo Alto,2025-02-24,543.0
+Palo Alto,2025-03-03,565.0
+Palo Alto,2025-03-10,566.0
+Palo Alto,2025-03-17,565.0
+Palo Alto,2025-03-24,571.0
+Palo Alto,2025-03-31,564.0
+Palo Alto,2025-04-07,572.0
+Palo Alto,2025-04-14,574.0
+Palo Alto,2025-04-21,555.0
+Palo Alto,2025-04-28,570.0
+Palo Alto,2025-05-05,586.0
+Palo Alto,2025-05-12,578.0
+Palo Alto,2025-05-19,585.0
+Palo Alto,2025-05-26,573.0
+Palo Alto,2025-06-02,577.0
+Palo Alto,2025-06-09,623.0
+Palo Alto,2025-06-16,592.0
+Palo Alto,2025-06-23,573.0
+Palo Alto,2025-06-30,607.0
+Palo Alto,2025-07-07,590.0
+Palo Alto,2025-07-14,582.0
+Palo Alto,2025-07-21,598.0
+Palo Alto,2025-07-28,606.0
+San Jose,2025-02-03,569.0
+San Jose,2025-02-10,528.0
+San Jose,2025-02-17,610.0
+San Jose,2025-02-24,584.0
+San Jose,2025-03-03,596.0
+San Jose,2025-03-10,597.0
+San Jose,2025-03-17,571.0
+San Jose,2025-03-24,599.0
+San Jose,2025-03-31,605.0
+San Jose,2025-04-07,589.0
+San Jose,2025-04-14,591.0
+San Jose,2025-04-21,619.0
+San Jose,2025-04-28,616.0
+San Jose,2025-05-05,618.0
+San Jose,2025-05-12,621.0
+San Jose,2025-05-19,651.0
+San Jose,2025-05-26,606.0
+San Jose,2025-06-02,624.0
+San Jose,2025-06-09,618.0
+San Jose,2025-06-16,645.0
+San Jose,2025-06-23,643.0
+San Jose,2025-06-30,657.0
+San Jose,2025-07-07,643.0
+San Jose,2025-07-14,665.0
+San Jose,2025-07-21,637.0
+San Jose,2025-07-28,611.0
